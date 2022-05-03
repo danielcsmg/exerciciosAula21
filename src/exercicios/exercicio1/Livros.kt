@@ -1,6 +1,6 @@
 package exercicios.exercicio1
 
-class Livros {
+open class Livros {
     private var genero: String = ""
     private var nomeLivro: String = ""
     private var isbn: Int = 0
